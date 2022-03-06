@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @sajadweb (Sajjad Mohammadi Nejad)
 - 👀 I’m interested in ... Fullstack 
-- 🌱 I’m currently learning ... Flutter and PWAs
+- 🌱 I’m currently learning ... Solidity
 - 💞️ I’m looking to collaborate on ... Open source(JS)
 - 📫 How to reach me ... sajadweb7@gmail.com 
  
