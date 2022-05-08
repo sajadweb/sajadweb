@@ -4,7 +4,7 @@
 - 👀 I’m interested in ... Fullstack 
 - 🌱 I’m currently learning ... Solidity
 - 💞️ I’m looking to collaborate on ... Open source(JS)
-- 📫 How to reach me ... sajadweb7@gmail.com 
+- 📫 How to reach me ... daram3118@gmail.com 
  
 <!---
 marienjus/marienjus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
